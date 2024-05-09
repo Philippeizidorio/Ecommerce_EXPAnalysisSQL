@@ -53,7 +53,7 @@ Tive como objetivo responder as seguintes perguntas:
 
 ## Resultados
 
-Para ficar mais didático e seguindo uma linha de sequência lógica, optei por reescrever cada pergunta seguida das linha de código, e um print com as 10 primeiras linhas da tabela resultante.
+Para tornar o conteúdo mais instrutivo e seguir uma abordagem sequencial, decidi reescrever cada pergunta acompanhada de seu respectivo trecho de código, seguido por uma captura de tela exibindo as primeiras 10 linhas da tabela gerada.
 
 #### 1 - Qual o valor total dos produtos vendidos por setor?
 
