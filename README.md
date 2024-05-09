@@ -144,7 +144,7 @@ Para tornar o conteúdo mais instrutivo e seguir uma abordagem sequencial, decid
 #### Resultado
 ![Alt ou título da imagem](https://github.com/Philippeizidorio/Ecommerce_EXPAnalysisSQL/blob/main/9rs.JPG)
 
-#### - 10 - Quais os produtos que tiveram de ser devolvidos?
+#### 10 - Quais os produtos que tiveram de ser devolvidos?
 
 
 #### Código: 
