@@ -58,111 +58,112 @@ Para tornar o conteúdo mais instrutivo e seguir uma abordagem sequencial, decid
 #### 1 - Qual o valor total dos produtos vendidos por setor?
 
 #### Código: 
-![Alt ou título da imagem](https://github.com/Campos-Silva/SQL_script_01_/blob/main/1_print_codigo.JPG)
+![Alt ou título da imagem](https://github.com/Philippeizidorio/Ecommerce_EXPAnalysisSQL/blob/main/codigo1.JPG)
 
 
 #### Resultado
-![Alt ou título da imagem](https://github.com/Campos-Silva/SQL_script_01_/blob/main/1_print_resultado.JPG)
+![Alt ou título da imagem](https://github.com/Philippeizidorio/Ecommerce_EXPAnalysisSQL/blob/main/r1.JPG)
 
 #### 2 - Qual o valor do frete médio por cidade?
 
 #### Código: 
-![Alt ou título da imagem](https://github.com/Campos-Silva/SQL_script_01_/blob/main/2_print_codigo.JPG)
+![Alt ou título da imagem](https://github.com/Philippeizidorio/Ecommerce_EXPAnalysisSQL/blob/main/codigo2.JPG)
 
 
 #### Resultado
-![Alt ou título da imagem](https://github.com/Campos-Silva/SQL_script_01_/blob/main/2_print_resultado.JPG)
+![Alt ou título da imagem](https://github.com/Philippeizidorio/Ecommerce_EXPAnalysisSQL/blob/main/r2.JPG)
 
 #### 3 - Qual o valor médio de produtos por setor?
 
 
 #### Código: 
-![Alt ou título da imagem](https://github.com/Campos-Silva/SQL_script_01_/blob/main/3_print_codigo.JPG)
+![Alt ou título da imagem](https://github.com/Philippeizidorio/Ecommerce_EXPAnalysisSQL/blob/main/cod3.JPG)
 
 
 #### Resultado
-![Alt ou título da imagem](https://github.com/Campos-Silva/SQL_script_01_/blob/main/3_print_resultado.JPG)
+![Alt ou título da imagem](https://github.com/Philippeizidorio/Ecommerce_EXPAnalysisSQL/blob/main/result3.JPG)
 
 #### 4 - Quais os produtos vendidos para a seção de "acessórios"?
 
 
 #### Código: 
-![Alt ou título da imagem](https://github.com/Campos-Silva/SQL_script_01_/blob/main/4_print_codigo.JPG)
+![Alt ou título da imagem](https://github.com/Philippeizidorio/Ecommerce_EXPAnalysisSQL/blob/main/cod4.JPG)
 
 
 #### Resultado
-![Alt ou título da imagem](https://github.com/Campos-Silva/SQL_script_01_/blob/main/4_print_resultado.JPG)
+![Alt ou título da imagem](https://github.com/Philippeizidorio/Ecommerce_EXPAnalysisSQL/blob/main/result4.JPG)
 
 #### 5 - Quais os produtos vendidos para a seção de "eletrônicos"?
 
 
 #### Código: 
-![Alt ou título da imagem](https://github.com/Campos-Silva/SQL_script_01_/blob/main/5_print_codigo.JPG)
+![Alt ou título da imagem](https://github.com/Philippeizidorio/Ecommerce_EXPAnalysisSQL/blob/main/cod5.JPG)
 
 
 #### Resultado
-![Alt ou título da imagem](https://github.com/Campos-Silva/SQL_script_01_/blob/main/5_print_resultado.JPG)
+![Alt ou título da imagem](https://github.com/Philippeizidorio/Ecommerce_EXPAnalysisSQL/blob/main/rs5.JPG)
 
 #### 6 - Quais os produtos que possuem foram vendidos para mais longe?
 
 
 #### Código: 
-![Alt ou título da imagem](https://github.com/Campos-Silva/SQL_script_01_/blob/main/6_print_codigo.JPG)
+![Alt ou título da imagem](https://github.com/Philippeizidorio/Ecommerce_EXPAnalysisSQL/blob/main/cod6.JPG)
 
 
 #### Resultado
-![Alt ou título da imagem](https://github.com/Campos-Silva/SQL_script_01_/blob/main/6_print_resultado.JPG)
+![Alt ou título da imagem](https://github.com/Philippeizidorio/Ecommerce_EXPAnalysisSQL/blob/main/rs6.JPG)
 
 #### 7 - Quais os produtos que possuem maior preço?
 
 
 #### Código: 
-![Alt ou título da imagem](https://github.com/Campos-Silva/SQL_script_01_/blob/main/7_print_codigo.JPG)
+![Alt ou título da imagem](https://github.com/Philippeizidorio/Ecommerce_EXPAnalysisSQL/blob/main/cod7.JPG)
 
 
 #### Resultado
-![Alt ou título da imagem](https://github.com/Campos-Silva/SQL_script_01_/blob/main/7_print_resultado.JPG)
+![Alt ou título da imagem](https://github.com/Philippeizidorio/Ecommerce_EXPAnalysisSQL/blob/main/rs7.JPG)
 
 
 #### 8 - Quais os produtos que possuem maior peso?
 
 
 #### Código: 
-![Alt ou título da imagem](https://github.com/Campos-Silva/SQL_script_01_/blob/main/8_print_codigo.JPG)
+![Alt ou título da imagem](https://github.com/Philippeizidorio/Ecommerce_EXPAnalysisSQL/blob/main/cod8.JPG)
 
 
 #### Resultado
-![Alt ou título da imagem](https://github.com/Campos-Silva/SQL_script_01_/blob/main/8_print_resultado.JPG)
+![Alt ou título da imagem](https://github.com/Philippeizidorio/Ecommerce_EXPAnalysisSQL/blob/main/rs8.JPG)
 
 #### 9 - Quais os 10 produtos mais caros que possuem valor entre R$200,00 a R$500,00?
 
 
 #### Código: 
-![Alt ou título da imagem](https://github.com/Campos-Silva/SQL_script_01_/blob/main/9_print_codigo.JPG)
+![Alt ou título da imagem](https://github.com/Philippeizidorio/Ecommerce_EXPAnalysisSQL/blob/main/9cod.JPG)
 
 
 #### Resultado
-![Alt ou título da imagem](https://github.com/Campos-Silva/SQL_script_01_/blob/main/9_print_resultado.JPG)
+![Alt ou título da imagem](https://github.com/Philippeizidorio/Ecommerce_EXPAnalysisSQL/blob/main/9rs.JPG)
 
 #### - 10 - Quais os produtos que tiveram de ser devolvidos?
 
 
 #### Código: 
-![Alt ou título da imagem](https://github.com/Campos-Silva/SQL_script_01_/blob/main/10_print_codigo.JPG)
+![Alt ou título da imagem](https://github.com/Philippeizidorio/Ecommerce_EXPAnalysisSQL/blob/main/10codigo.JPG)
 
 
 #### Resultado
-![Alt ou título da imagem](https://github.com/Campos-Silva/SQL_script_01_/blob/main/10_print_resultado.JPG)
+![Alt ou título da imagem](https://github.com/Philippeizidorio/Ecommerce_EXPAnalysisSQL/blob/main/10result.JPG)
 
 ## Autor:
 
-<img  src="https://raw.githubusercontent.com/Campos-Silva/Campos-Silva/main/perfil_lucas_andrei_campos_silva.png" width="80" alt="cognitiveclass.ai logo" align="left" /> 
+<img  src="https://github.com/Philippeizidorio/Dashboard_PowerBIMarketing/assets/145637595/dd3c301c-3cd3-4808-92c8-a321553f7acf" width="80" alt="cognitiveclass.ai logo" align="left" /> 
 
-### &nbsp;&nbsp;Lucas Andrei Campos-Siva
+### &nbsp;&nbsp;Philippe Izidório
 
 <p>
 &nbsp;&nbsp;Cientista de Dados / Business Intelligence / Analista de Dados<br/>
-&nbsp;&nbsp;LinkedIn: https://www.linkedin.com/in/lucas-andrei-campos-silva/<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E-mail: ds.campossilva@gmail.com<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Portifólio de projetos em Data Science: https://github.com/Campos-Silva
+&nbsp;&nbsp;LinkedIn: https://www.linkedin.com/in/philippeizidorio/<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E-mail: euphilippeizidorio@gmail.com<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Portifólio de projetos em Data Science: https://github.com/Philippeizidorio
 </p>
+
