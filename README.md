@@ -24,7 +24,7 @@ Utilizei o banco de dados do Postgre para implementar essas análises explorató
 ## Método Utilizado:
 
  <left>
-<img src="https://github.com/Philippeizidorio/Ecommerce_EXPAnalysisSQL/blob/main/Phil_anotacao.png" width="200" />
+<img src="https://github.com/Philippeizidorio/Ecommerce_EXPAnalysisSQL/blob/main/metodo.png" width="400" />
 </left>
 
 Visando demonstrar o uso dessas funções eu segui uma sequência lógica de perguntas acerca do conjunto de dados, os quais fui respondendo utilizando essas funções através de linhas de códigos na linguagem SQL
