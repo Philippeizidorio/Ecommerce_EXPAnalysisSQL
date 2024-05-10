@@ -10,16 +10,7 @@ Para isso demonstrei como utilizamos as principais "funções" do SQL como "SELE
 
 ## Sobre o conjunto de dados:
 
-Trata-se de um conjunto de dados de origem de anônima e que foi utilizado durante as aulas extracurriculares que participei do Curso SQL Para Análise De Dados da DNC Group.
-
-## Observação:
-
- <left>
-<img src="https://github.com/Philippeizidorio/Ecommerce_EXPAnalysisSQL/blob/main/postgre_sql_logo.png" width="400" />
-</left>
-
-Utilizei o banco de dados do Postgre para implementar essas análises exploratórias.
-
+Trata-se de um conjunto de dados de origem de anônima em formato __.CSV__ que realizei a exportação para um banco de dados __PostgreSQL__, visando implementar essas análises exploratórias. Além disso, o mesmo foi utilizado durante as aulas extracurriculares que participei do Curso SQL Para Análise De Dados da DNC Group.
 
 ## Método Utilizado:
 
@@ -153,6 +144,12 @@ Para tornar o conteúdo mais instrutivo e seguir uma abordagem sequencial, decid
 
 #### Resultado
 ![Alt ou título da imagem](https://github.com/Philippeizidorio/Ecommerce_EXPAnalysisSQL/blob/main/10result.JPG)
+
+### ◾ Tecnologias Utilizadas: 
+<div <br> 
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+</div> 
 
 ## Autor:
 
