@@ -10,7 +10,7 @@ Para isso demonstrei como utilizamos as principais "funções" do SQL como "SELE
 
 ## Sobre o conjunto de dados:
 
-Trata-se de um conjunto de dados de origem de anônima em formato __.CSV__ que realizei a exportação para um banco de dados __PostgreSQL__, visando implementar essas análises exploratórias. Além disso, o mesmo foi utilizado durante as aulas extracurriculares que participei do Curso SQL Para Análise De Dados da DNC Group.
+Trata-se de um conjunto de dados de origem de anônima em formato __.CSV__ que realizei a exportação para um banco de dados __PostgreSQL__, visando implementar essas análises exploratórias. Além disso, o mesmo foi utilizado durante as aulas extracurriculares que participei do __Curso SQL Para Análise De Dados__ da __DNC Group__.
 
 ## Método Utilizado:
 
