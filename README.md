@@ -1,4 +1,4 @@
-# Explorando Dados Do Setor De Vendas De Um Ecommerce Usando SQL 🏪🔍
+# Explorando Dados Do Setor De Vendas Usando SQL 🏪🔍
 ![Alt ou título da imagem](https://github.com/Philippeizidorio/Ecommerce_EXPAnalysisSQL/blob/main/ecommerceheader.png)
 
 
